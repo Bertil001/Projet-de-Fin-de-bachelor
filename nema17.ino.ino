@@ -6,7 +6,7 @@ const int bouton12 = 26;
 const int bouton21 = 32;
 const int bouton22 = 33;
 
-int positions[] = {0, 300, 600, 900, 1200}; // Positions cibles autour de 360°
+int positions[] = {0, 252, 504, 756, 1008}; // Positions cibles autour de 360°
 int current_position = 0; // Position actuelle du moteur
 bool is_moving = false; // Indique si le moteur est en mouvement
 int button1_pressed;
